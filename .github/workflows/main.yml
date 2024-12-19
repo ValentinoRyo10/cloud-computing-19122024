@@ -30,7 +30,7 @@ jobs:
       # The remote port
       remote_port: # optional, default is 22
       # The remote user
-      remote_user: ValentinoRyo10
+      remote_user: asus
       # The remote key
       remote_key: ${{ secrets.DEPLOY_KEY_PRIVATE }}
       # The remote key passphrase
